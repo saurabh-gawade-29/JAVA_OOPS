@@ -1,0 +1,54 @@
+🔹 Basic Programs
+Write a program to print "Hello, World!".
+
+Write a program to add two numbers.
+
+Write a program to calculate the area of a rectangle.
+
+Write a program to find the square and cube of a number.
+
+Write a program to convert temperature from Celsius to Fahrenheit.
+
+🔹 Conditional Statements
+Write a program to check if a number is positive, negative, or zero.
+
+Write a program to check if a number is even or odd.
+
+Write a program to check if a year is a leap year.
+
+Write a program to find the largest of three numbers.
+
+Write a program to check if a character is a vowel or consonant.
+
+🔹 Loops
+Write a program to print numbers from 1 to 100.
+
+Write a program to print the multiplication table of a number.
+
+Write a program to find the factorial of a number.
+
+Write a program to calculate the sum of digits of a number.
+
+Write a program to reverse a number.
+
+🔹 Arrays
+Write a program to input and display elements of an array.
+
+Write a program to find the largest element in an array.
+
+Write a program to copy all elements of one array into another.
+
+Write a program to count even and odd numbers in an array.
+
+Write a program to sort an array in ascending order.
+
+🔹 Functions
+Write a function to check if a number is prime.
+
+Write a function to calculate power of a number.
+
+Write a function to find the GCD of two numbers.
+
+Write a function to print the Fibonacci series.
+
+Write a function to find the sum of natural numbers up to n.
