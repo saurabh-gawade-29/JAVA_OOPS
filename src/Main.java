@@ -1,14 +1,12 @@
 public class Main {
-    static int v = 5;
-    public static void main(String[] args) {
-        int a = 100;
-        //block
-        {
-            int c = 50;
-            System.out.println(c);
-            System.out.println(v);
+    public static void main(String[ ] args) {
+//        Actual error --> out of bound hide show sout
+        try {
+            int[] myNumbers = {1, 2, 3};
+            System.out.println(myNumbers[10]); // error!
+        } catch (Exception e) {
+            System.out.println(e);
+            System.out.println("Something went wrong");
         }
-        System.out.println(a);
-        System.out.println(v);
     }
 }
