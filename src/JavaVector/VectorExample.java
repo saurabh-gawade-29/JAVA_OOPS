@@ -36,3 +36,10 @@ public class VectorExample {
         System.out.println("Vector capacity: " + v.capacity());
     }
 }
+//! Homework:
+// Write a Java program to create a Vector of integers, add elements to it,
+// insert an element at a specific index,
+// remove an element by index,
+// and then iterate through the Vector to print all elements.
+// Explain how Vector capacity increments
+// when adding new elements beyond its current capacity.
