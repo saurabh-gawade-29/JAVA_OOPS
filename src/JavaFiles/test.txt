@@ -1,0 +1,12 @@
+1. Text Format - Text - text format
+2. .JPEG / .JPG => Photos => Binary => Binary
+3. forcefullly => base64 => text => encoding decoding
+
+
+Dev:
+Bank
+PDF - statement
+Excel - credit card bill
+Text - .csv
+
+Files Create, Update, Delete, Read
